@@ -260,6 +260,18 @@
     estree-walker "^2.0.1"
     picomatch "^2.2.2"
 
+"@tableau/extensions-api-types@^1.6.0":
+  version "1.6.0"
+  resolved "https://registry.yarnpkg.com/@tableau/extensions-api-types/-/extensions-api-types-1.6.0.tgz#4b2dc6b41add446acf0a16de959c77e4cad38a54"
+  integrity sha512-1dWOZz6aClQjPGqbVkBhNSvLKkpCNHDn9wvWuheS+4cYbWeR/1c/I7G+aYQ2Q/A2/Mo/cgEKC/w4ZhSzlnBeoQ==
+  dependencies:
+    "@types/lodash" "^4.14.126"
+
+"@types/lodash@^4.14.126":
+  version "4.14.175"
+  resolved "https://registry.yarnpkg.com/@types/lodash/-/lodash-4.14.175.tgz#b78dfa959192b01fae0ad90e166478769b215f45"
+  integrity sha512-XmdEOrKQ8a1Y/yxQFOMbC47G/V2VDO1GvMRnl4O75M4GW/abC5tnfzadQYkqEveqRM1dEJGFFegfPNA2vvx2iw==
+
 "@types/prop-types@*":
   version "15.7.4"
   resolved "https://registry.yarnpkg.com/@types/prop-types/-/prop-types-15.7.4.tgz#fcf7205c25dff795ee79af1e30da2c9790808f11"
